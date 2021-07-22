@@ -7,6 +7,8 @@ public class Sample {
 		
 		System.out.println("Selenium");
 		System.out.println("Java");
+		System.out.println("Python");
+		System.out.println("Oracle");
 	}
 
 }
