@@ -7,8 +7,10 @@ public class Sample {
 		
 		System.out.println("Selenium");
 		System.out.println("Java");
+		System.out.println("sql");
 		System.out.println("Python");
 		System.out.println("Oracle");
+
 	}
 
 }
